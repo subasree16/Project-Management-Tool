@@ -1,7 +1,6 @@
 # Project-Management-Tool
 To develop a project management tool that allows users to create projects, assign tasks, set deadlines, and track progress. Use React, Node.js, and a database like MongoDB 
->>>>>>> abae1fda34394c2d0af589bd2037ca99eab3c48a
-=======
+
 # Project Management Tool
 
 A full-stack project management tool built with React, Express, and MongoDB.
@@ -102,4 +101,3 @@ VITE_API_URL=http://localhost:5000/api
 =======
 # Project-Management-Tool
 To develop a project management tool that allows users to create projects, assign tasks, set deadlines, and track progress. Use React, Node.js, and a database like MongoDB 
->>>>>>> abae1fda34394c2d0af589bd2037ca99eab3c48a
